@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratorDesignPattern/IteratorDesignPattern.iml" filepath="$PROJECT_DIR$/IteratorDesignPattern/IteratorDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MementoDesignPattern/MementoDesignPattern.iml" filepath="$PROJECT_DIR$/MementoDesignPattern/MementoDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/cscn72040-assignment1/cscn72040-assignment1.iml" filepath="$PROJECT_DIR$/cscn72040-assignment1/cscn72040-assignment1.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
